@@ -54,10 +54,10 @@ Required tools:
 
 ## Installation
 
-1. Download [`SKILL.md`](./SKILL.md) from this repo
+1. Download [`vantage-point-ma.zip`](./vantage-point-ma.zip) from this repo
 2. Go to [claude.ai/settings/capabilities](https://claude.ai/settings/capabilities)
 3. Under Skills, click "Upload skill"
-4. Upload the SKILL.md file (or zip it in a folder first)
+4. Select the zip file
 
 ## Why It Works
 
